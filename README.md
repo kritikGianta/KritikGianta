@@ -1,254 +1,262 @@
-<h1 align="center">Hi 👋, I'm Kritik Gianta</h1>
+<h1 align="center">Hey, I'm Kritik 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer+%7C+Researcher;Machine+Learning+%7C+NLP+%7C+Generative+AI;Building+Real-World+AI+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=650&lines=AI%2FML+Undergrad;I+break+things+and+then+debug+them;NLP+%7C+GenAI+%7C+RAG+%7C+ML;Sometimes+I+make+models+%E2%80%94+sometimes+they+make+me" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/kritikGianta">
-    <img src="https://img.shields.io/badge/GitHub-kritikGianta-181717?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="https://www.linkedin.com/in/kritik-gianta">
-    <img src="https://img.shields.io/badge/LinkedIn-Kritik%20Gianta-0077B5?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="mailto:kritikgianta88@gmail.com">
-    <img src="https://img.shields.io/badge/Email-kritikgianta88%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <i>BMSIT • AI & ML • Bengaluru</i>
 </p>
 
 ---
 
-## 🚀 About Me
+## `$ whoami`
 
-🎓 B.E. Artificial Intelligence & Machine Learning @ BMS Institute of Technology & Management
-📅 Expected Graduation: May 2027
-🏆 GPA: **9.4/10**
-💼 Former Machine Learning Intern @ TestAIng
-🔬 Research-focused in **Machine Learning, NLP, Generative AI & Quantum Machine Learning**
-⚡ Interested in building scalable, explainable, and production-ready AI systems
+```python
+kritik = {
+    "degree": "B.E. AI & ML",
+    "college": "BMSIT",
+    "gpa": 9.4,
+    "languages": ["Python", "C++", "SQL"],
+    "currently_into": [
+        "NLP",
+        "Generative AI",
+        "RAG",
+        "ML Systems"
+    ],
+    "fun_fact": "I probably have a better relationship with Git than sleep."
+}
+```
 
-I enjoy working at the intersection of **machine learning research, software engineering, and real-world applications** — from multilingual NLP systems and RAG pipelines to explainable AI and quantum machine learning.
+I'm an AI/ML student who likes going beyond the `model.fit()` part.
 
----
+Lately I've been spending most of my time around **NLP, transformers, RAG, backend systems and ML deployment** — basically anywhere ML meets actual software.
 
-## 🧠 Tech Stack
-
-### 👨‍💻 Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python" height="32"/>
-  <img src="https://skillicons.dev/icons?i=cpp" height="32"/>
-</p>
-
-**Python • C++ • SQL**
-
----
-
-### 🤖 AI / Machine Learning
-
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch" height="32"/>
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="32"/>
-  <img src="https://skillicons.dev/icons?i=sklearn" height="32"/>
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black" height="32"/>
-</p>
-
-**Machine Learning • Deep Learning • NLP • Generative AI • RAG • Transformers**
+I also enjoy competitive programming, hackathons, research, and occasionally convincing myself that a bug will disappear if I stare at it long enough.
 
 ---
 
-### ⚙️ ML Engineering & Backend
+## 🧰 Things I Actually Use
 
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi" height="32"/>
-  <img src="https://skillicons.dev/icons?i=docker" height="32"/>
-  <img src="https://skillicons.dev/icons?i=redis" height="32"/>
-</p>
+### Languages
 
-**FastAPI • REST APIs • SQLAlchemy • Docker • Redis**
+`Python` `C++` `SQL`
 
----
+### ML / AI
 
-### 📊 Data & Scientific Computing
+`TensorFlow` `Hugging Face` `Scikit-learn`
+`NLP` `Deep Learning` `Generative AI` `RAG`
 
-<p>
-  <img src="https://skillicons.dev/icons?i=numpy" height="32"/>
-  <img src="https://skillicons.dev/icons?i=pandas" height="32"/>
-</p>
+### Backend
 
-**NumPy • Pandas • Matplotlib • Data Analysis • Statistical Evaluation**
+`FastAPI` `REST APIs` `SQLAlchemy` `Redis`
 
----
+### Data
 
-### 🗄️ Databases
+`NumPy` `Pandas` `Matplotlib`
+`MySQL` `Vector Databases`
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" height="32"/>
-</p>
+### Dev / Infra
 
-**MySQL • Vector Databases • Database Management Systems**
+`Git` `GitHub` `Docker` `AWS`
+`Grafana` `Prometheus`
 
 ---
 
-### ☁️ Tools & Infrastructure
+## 🔨 Stuff I've Built
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,aws" height="32"/>
-</p>
+### 🧠 RepoNexus
 
-**Git • GitHub • Docker • AWS • Grafana • Prometheus**
+**AI-powered technical debt analyzer**
 
----
+> What if your codebase could complain about itself?
 
-## 💼 Experience
+RepoNexus looks through GitHub repositories and combines traditional code analysis with ML to figure out where technical debt is hiding.
 
-### Machine Learning Intern — TestAIng
+**Under the hood:**
 
-**Jul 2025 – Jan 2026 | Remote**
+`Tree-sitter` → AST parsing
+`Radon` → complexity analysis
+`Dependency Graphs` → relationships
+`XGBoost` → scoring
+`RAG + LLaMA 3.3` → explanations & fixes
 
-* Worked with large-scale multilingual SMS datasets for preprocessing, EDA, data cleaning, and label validation.
-* Developed an **XLM-RoBERTa multilingual SMS spam classifier** in collaboration with TRAI.
-* Trained on **134K+ SMS samples** and achieved a **0.9899 F1-score**.
-* Benchmarked XLM-RoBERTa against **TF-IDF + Logistic Regression, BERT, and DistilBERT**.
-* Built a lightweight **FastAPI REST API** for model inference.
-* Improved robustness through **class-weighted loss, Hinglish augmentation, oversampling, and confidence calibration**.
-
----
-
-## 🔥 Featured Projects
-
-### 🧠 RepoNexus — AI-Powered Technical Debt Analyzer
-
-**Python • FastAPI • SQLAlchemy • XGBoost • Docker • Groq API**
-
-An AI-powered platform that combines static code analysis and machine learning to identify, prioritize, and explain technical debt.
-
-**Key Components:**
-
-* Tree-sitter AST parsing
-* Radon complexity analysis
-* Dependency graph extraction
-* XGBoost-based technical debt scoring
-* RAG-powered explanations
-* LLaMA 3.3 for remediation and automated code-fix suggestions
+**Stack:**
+`Python` `FastAPI` `SQLAlchemy` `XGBoost` `Docker` `Groq`
 
 ---
 
 ### 🛡️ Explainable Toxic Comment Moderation
 
-**Python • Hugging Face • Captum • Pandas • Scikit-learn**
+A DistilBERT-based moderation system that doesn't just say:
 
-A transformer-based toxicity detection and moderation system focused on performance, explainability, and practical moderation workflows.
+> ❌ "This comment is toxic."
+
+but also tries to answer:
+
+> "Okay... but **why**?"
+
+Built with model explainability, batch moderation, fairness evaluation and toxicity-aware rewriting.
 
 **Results:**
 
-* **ROC-AUC:** 0.986
-* **PR-AUC:** 0.912
-* **F1:** 0.839
+| Metric  |     Score |
+| ------- | --------: |
+| ROC-AUC | **0.986** |
+| PR-AUC  | **0.912** |
+| F1      | **0.839** |
 
-**Features:**
-
-* DistilBERT classification
-* Model explainability
-* Batch CSV moderation
-* Fairness evaluation
-* Toxicity-aware rewrite suggestions
+**Stack:**
+`DistilBERT` `Hugging Face` `Captum` `Pandas` `Scikit-learn`
 
 ---
 
 ### 📚 Skill & Learning Ledger
 
-**MySQL • SQL**
+Because apparently tracking what I'm learning requires a database.
 
-A structured learning management system designed to track skills, learning progress, and historical changes.
+A MySQL-based system for keeping track of:
 
-**Features:**
-
-* Normalized relational database
-* Temporal data tracking
-* CRUD workflows
+* Skills
+* Learning progress
+* Historical changes
+* Skill relationships
 * Analytics
-* Skill mapping
-* Data integrity constraints
+
+Built with normalized schemas, constraints, temporal tracking and CRUD workflows.
+
+**Stack:** `MySQL` `SQL`
 
 ---
 
-### ⚛️ Quantum ML — Fake News Detection
+### ⚛️ Quantum ML × Fake News
 
-**Quantum Machine Learning • Qiskit • Quantum Kernels • SVM**
+One of my research projects exploring **quantum kernels for fake news detection**.
 
-Research work exploring the geometry and behavior of quantum kernels for fake news classification.
+Instead of only asking *"does it work?"*, the work digs into **why certain quantum kernels behave the way they do**.
 
-**Highlights:**
+Looked at:
 
-* Geometry-aware quantum kernel evaluation
-* Kernel alignment analysis
-* Conditioning and spectral analysis
-* Robustness evaluation across configurations
-* **0.8274 classification accuracy**
-* Up to **25× fewer support vectors** than classical RBF-SVM while maintaining comparable performance
+`Kernel Alignment`
+`Conditioning`
+`Spectral Behaviour`
+`Robustness`
 
----
-
-## 🔬 Research Interests
-
-* 🧠 Machine Learning & Deep Learning
-* 🗣️ NLP & Transformer Models
-* ✨ Generative AI
-* 🔎 Retrieval-Augmented Generation
-* 🛡️ Explainable & Responsible AI
-* ⚛️ Quantum Machine Learning
-* ⚙️ ML Systems & Deployment
-* 🔐 AI + Cybersecurity
+**Result:** `0.8274 accuracy` with up to **25× fewer support vectors** than a classical RBF-SVM in the reported comparison.
 
 ---
 
-## 🏆 Achievements
+## 💼 A Little Industry Experience
 
-🥇 **Hacksphere Hackathon — 1st Place**
-AyuPulse — Blockchain-based medicine authentication solution
+### Machine Learning Intern — TestAIng
 
-🥇 **CodeSprint 3.0 — 1st Place**
-Multi-round competition involving coding, CTF challenges, and prototype development
+`Jul 2025 → Jan 2026`
 
-🥇 **CodeSprint 4.0 — 1st Place**
-Competitive programming and problem-solving event featuring ThreatLens
+Worked on a multilingual SMS spam classification system with **134K+ SMS samples**.
 
-🥈 **CodeWars — 2nd Place**
-Competitive programming and algorithmic problem-solving
+The fun part wasn't just training XLM-RoBERTa.
 
-🥉 **Social Hackathon — 3rd Place (National)**
-BioBloom — Technology-driven social impact solution
+I also worked on:
+
+* Data cleaning & EDA
+* Label quality validation
+* Hinglish augmentation
+* Oversampling
+* Class-weighted loss
+* Confidence calibration
+* Model benchmarking
+* FastAPI inference
+
+The final XLM-RoBERTa system reached **0.9899 F1-score**.
+
+Also compared it against:
+
+`TF-IDF + Logistic Regression` → `BERT` → `DistilBERT` → `XLM-RoBERTa`
 
 ---
 
-## 📈 What I'm Currently Working On
+## 🏆 Somehow I Keep Ending Up on Podiums
 
-🔬 Building research-oriented AI systems
-🤖 Exploring advanced NLP & Generative AI
-🧠 Improving model performance and explainability
-⚙️ Building production-ready ML APIs and pipelines
-🔎 Exploring RAG and AI-powered developer tools
-⚛️ Researching emerging applications of Quantum ML
+```text
+🥇 Hacksphere Hackathon     → 1st Place
+🥇 CodeSprint 3.0           → 1st Place
+🥇 CodeSprint 4.0           → 1st Place
+🥈 CodeWars                 → 2nd Place
+🥉 Social Hackathon         → 3rd Place (National)
+```
+
+### A few of the things behind those wins:
+
+**AyuPulse**
+Blockchain-based medicine authentication
+
+**ThreatLens**
+Security-focused prototype
+
+**BioBloom**
+Technology-driven social impact project
+
+Apparently I enjoy hackathons.
 
 ---
 
-## 🌐 Connect With Me
+## 🔬 Currently Curious About
+
+```text
+NLP
+ ├── Transformers
+ ├── Multilingual Models
+ └── LLMs
+
+Generative AI
+ ├── RAG
+ ├── AI Agents
+ └── Developer Tools
+
+ML Engineering
+ ├── Model Serving
+ ├── APIs
+ ├── Observability
+ └── Deployment
+```
+
+And yes, I still spend an unreasonable amount of time doing DSA.
+
+---
+
+## 📊 GitHub
 
 <p align="center">
-  <a href="mailto:kritikgianta88@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/kritik-gianta">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/kritikGianta">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=kritikGianta&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kritikGianta&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritikGianta&layout=compact&hide_border=true&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Find Me
+
+<p align="center">
+
+<a href="mailto:kritikgianta88@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/kritik-gianta">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/kritikGianta">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
 <p align="center">
-  <b>⚡ Building intelligent systems. Researching new ideas. Solving real-world problems.</b>
+  <i>Still learning. Still building. Still debugging.</i> 🛠️
 </p>
